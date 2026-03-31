@@ -4,7 +4,7 @@
   "description": "Projeto simples para aulas de CI-CD",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --headless -- nelectron"
+    "test": "npx cypress run --headless -- electron"
   },
   "repository": {
     "type": "git",
